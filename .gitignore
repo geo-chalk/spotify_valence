@@ -1,2 +1,4 @@
 spotify_config.py
 audio_features.csv
+.cache
+test_df.csv
