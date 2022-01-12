@@ -2,3 +2,9 @@ spotify_config.py
 audio_features.csv
 .cache
 test_df.csv
+audio_features_extra_new.csv
+audio_features_spotify_scrap.csv
+audio_features_spotify_search.csv
+geckodriver.log
+spotify_ids.txt
+pycaret.ipynb
